@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace common_library.model
 {
-    class Role
+    class City
     {
-        public string Name { get; set; }
-        public long Id { get; set; }
     }
 }
