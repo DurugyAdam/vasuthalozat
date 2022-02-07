@@ -8,5 +8,12 @@ namespace common_library.model
 {
     class City
     {
+        [Table("CITIES")]
+        public class City : AbstractBase
+        {
+            [Column("CITY_NAME")]
+
+            public string Name { get; set; }
+        }
     }
 }
