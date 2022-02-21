@@ -7,11 +7,10 @@ using System.ComponentModel;
 
 namespace common_library.model
 {
-    [Table("USERS")]
+
     public class User
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+
         public long Id { get; set; }
         public string Name { get; set; }
         public string UserName { get; set; }

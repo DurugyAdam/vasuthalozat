@@ -22,7 +22,7 @@ namespace adminWPF
     {
         public MainWindow()
         {
-            InitializeComponent();
+            
         }
     }
 }

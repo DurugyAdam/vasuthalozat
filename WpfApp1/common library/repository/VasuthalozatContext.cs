@@ -8,6 +8,7 @@ namespace common_library.repository
 {
     public class VasuthalozatContext
     {
+
         private static VasuthalozatContext context = null;
         public static VasuthalozatContext Instance
         {
