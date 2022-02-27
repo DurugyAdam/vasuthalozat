@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c52f63ec-074c-4526-80dd-f8b32b76577e": {
+      "ProjectGuid": "c52f63ec-074c-4526-80dd-f8b32b76577e",
+      "DisplayName": "VasuthalozatAdmin",
+      "ColorIndex": 0
+    },
+    "8361c48a-0ae0-48b8-85a5-05c4f64d7931": {
+      "ProjectGuid": "8361c48a-0ae0-48b8-85a5-05c4f64d7931",
+      "DisplayName": "VasuthalozatPublic",
+      "ColorIndex": 1
+    },
+    "bf370d0a-15d5-4d1b-8b2d-29b6cb1c65b8": {
+      "ProjectGuid": "bf370d0a-15d5-4d1b-8b2d-29b6cb1c65b8",
+      "DisplayName": "VasuthalozatCommon",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

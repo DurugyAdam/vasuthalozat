@@ -1,5 +1,0 @@
-C:\Users\Rendszergazda.ADAM\Documents\GitHub\vasuthalozat\WpfApp1\adminWPF\obj\Debug\net5.0-windows\adminWPF.csprojAssemblyReference.cache
-C:\Users\Rendszergazda.ADAM\Documents\GitHub\vasuthalozat\WpfApp1\adminWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
-C:\Users\Rendszergazda.ADAM\Documents\GitHub\vasuthalozat\WpfApp1\adminWPF\obj\Debug\net5.0-windows\App.g.cs
-C:\Users\Rendszergazda.ADAM\Documents\GitHub\vasuthalozat\WpfApp1\adminWPF\obj\Debug\net5.0-windows\adminWPF_MarkupCompile.cache
-C:\Users\Rendszergazda.ADAM\Documents\GitHub\vasuthalozat\WpfApp1\adminWPF\obj\Debug\net5.0-windows\adminWPF_MarkupCompile.lref
